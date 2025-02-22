@@ -1,0 +1,15 @@
+.fixed-img {
+    height: 150px;  /* Menyesuaikan tinggi gambar */
+    object-fit: contain;  /* Menyesuaikan gambar agar tidak terpotong */
+    padding: 10px; /* Memberi sedikit ruang */
+}
+
+/* Memberikan background semi-transparan pada teks */
+.caption-bg {
+    background: rgba(0, 0, 0, 0.6); /* Warna hitam transparan */
+    color: white !important; /* Teks putih */
+    padding: 10px;
+    border-radius: 8px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Shadow agar lebih terbaca */
+    bottom: 20px;
+}
