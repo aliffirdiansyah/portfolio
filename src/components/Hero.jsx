@@ -12,7 +12,7 @@ export default function Hero() {
 
       <h1>Hello, I'm Alif 👋</h1>
       <p className="lead">Fullstack Web Developer</p>
-      <a href="/CV.pdf" className="btn btn-success" download>Download My CV</a>
+      <a href="https://drive.google.com/file/d/14i1hkbXji-7nPCdezdvFZTdFgtnJQmpT/view?usp=sharing" className="btn btn-success" download>Download My CV</a>
     </div>
   )
 }
